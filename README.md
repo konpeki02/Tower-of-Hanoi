@@ -27,7 +27,7 @@ Garbage Data being entered
 
 ## How to Run the Game
 1. Download all the files from the repository.
-2. Compile all the above `g++ -o output main.cpp` files.
+2. Compile from the terminal `g++ -o output main.cpp`
 3. Run `./output`
 
 ## How to Play the Game
