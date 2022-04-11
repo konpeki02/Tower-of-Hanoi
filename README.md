@@ -10,6 +10,11 @@
 
 ## Screen Shots
 <img width="301" alt="Starting Game" src="https://user-images.githubusercontent.com/92644639/162793784-b078b63d-0425-4d9b-b19f-a80c01b8acb4.png">
+
+<img width="294" alt="End of Game" src="https://user-images.githubusercontent.com/92644639/162794038-83510ed7-9a6c-4800-a6e7-c9e02eb262c3.png">
+
+<img width="266" alt="Wrong Tower Selected" src="https://user-images.githubusercontent.com/92644639/162794111-31baafb2-5287-4616-9c1c-1fe5c9146bab.png">
+
 ## File Details
 - *main.cpp* - This file contains the source code for the main file
 - *log.txt* - File allows for manual testing to make sure game is running correctly
