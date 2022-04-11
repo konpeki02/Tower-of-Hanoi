@@ -9,7 +9,7 @@
 ----
 
 ## Screen Shots
-
+<img width="301" alt="Starting Game" src="https://user-images.githubusercontent.com/92644639/162793784-b078b63d-0425-4d9b-b19f-a80c01b8acb4.png">
 ## File Details
 - *main.cpp* - This file contains the source code for the main file
 - *log.txt* - File allows for manual testing to make sure game is running correctly
