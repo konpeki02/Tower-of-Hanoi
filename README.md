@@ -9,15 +9,14 @@
 ----
 
 ## Screen Shots
-- Image of start of Game and user being prompted to select first "ring" represened by a letter
 <img width="301" alt="Starting Game" src="https://user-images.githubusercontent.com/92644639/162793784-b078b63d-0425-4d9b-b19f-a80c01b8acb4.png"> 
-----
-- All the rings have been transfered from the inital to final tower
+Image of start of Game and user being prompted to select first "ring" represened by a letter
+
 <img width="294" alt="End of Game" src="https://user-images.githubusercontent.com/92644639/162794038-83510ed7-9a6c-4800-a6e7-c9e02eb262c3.png">
-----
-- Example of wrong tower being selected and being prompted to select new tower
+All the rings have been transfered from the inital to final tower
+
 <img width="266" alt="Wrong Tower Selected" src="https://user-images.githubusercontent.com/92644639/162794111-31baafb2-5287-4616-9c1c-1fe5c9146bab.png">
-----
+Example of wrong tower being selected and being prompted to select new tower
 
 
 
