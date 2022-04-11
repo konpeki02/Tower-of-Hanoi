@@ -14,7 +14,7 @@
 - *main.cpp* - This file contains the source code for the main file
 - *log.txt* - File allows for manual testing to make sure game is running correctly
 
-# How to Run the Game
+## How to Run the Game
 1. Download all the files from the repository.
 2. Compile all the above `g++ -o output main.cpp` files.
 3. Run `./output`
