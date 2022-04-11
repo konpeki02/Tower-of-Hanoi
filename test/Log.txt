@@ -1,0 +1,172 @@
+//test 1
+
+Tower of Hanoi
+	T1	A	B	C	D
+
+	T2
+
+	T3
+Choose a source tower 1,2,3: 1
+Choose a destination tower 1,2,3: 2
+	T1	A	B	C
+
+	T2	D
+
+	T3
+Choose a source tower 1,2,3: 1
+Choose a destination tower 1,2,3: 2
+C cannot go on D
+Choose a destination tower 1,2,3: 3
+	T1	A	B
+
+	T2	D
+
+	T3	C
+Choose a source tower 1,2,3: 
+
+//Example of wrong tower being selected and being prompted to enter new tower
+
+//test 2
+
+Tower of Hanoi
+	T1	A	B	C	D
+
+	T2
+
+	T3
+Choose a source tower 1,2,3: $
+Choose new tower, wrong data entered 1
+Choose a destination tower 1,2,3: 2
+	T1	A	B	C
+
+	T2	D
+
+	T3
+Choose a source tower 1,2,3:
+
+//example of garbage data being prevented from entered
+
+//test 3
+Tower of Hanoi
+	T1	A	B	C	D
+
+	T2
+
+	T3
+Choose a source tower 1,2,3: 1
+Choose a destination tower 1,2,3: 2
+	T1	A	B	C
+
+	T2	D
+
+	T3
+Choose a source tower 1,2,3: 1
+Choose a destination tower 1,2,3: 3
+	T1	A	B
+
+	T2	D
+
+	T3	C
+Choose a source tower 1,2,3: 2
+Choose a destination tower 1,2,3: 3
+	T1	A	B
+
+	T2
+
+	T3	C	D
+Choose a source tower 1,2,3: 1
+Choose a destination tower 1,2,3: 2
+	T1	A
+
+	T2	B
+
+	T3	C	D
+Choose a source tower 1,2,3: 3
+Choose a destination tower 1,2,3: 1
+	T1	A	D
+
+	T2	B
+
+	T3	C
+Choose a source tower 1,2,3: 3
+Choose a destination tower 1,2,3: 2
+	T1	A	D
+
+	T2	B	C
+
+	T3
+Choose a source tower 1,2,3: 1
+Choose a destination tower 1,2,3: 2
+	T1	A
+
+	T2	B	C	D
+
+	T3
+Choose a source tower 1,2,3: 1
+Choose a destination tower 1,2,3: 3
+	T1
+
+	T2	B	C	D
+
+	T3	A
+Choose a source tower 1,2,3: 2
+Choose a destination tower 1,2,3: 3
+	T1
+
+	T2	B	C
+
+	T3	A	D
+Choose a source tower 1,2,3: 2
+Choose a destination tower 1,2,3: 1
+	T1	C
+
+	T2	B
+
+	T3	A	D
+Choose a source tower 1,2,3: 3
+Choose a destination tower 1,2,3: 1
+	T1	C	D
+
+	T2	B
+
+	T3	A
+Choose a source tower 1,2,3: 2
+Choose a destination tower 1,2,3: 3
+	T1	C	D
+
+	T2
+
+	T3	A	B
+Choose a source tower 1,2,3: 1
+Choose a destination tower 1,2,3: 2
+	T1	C
+
+	T2	D
+
+	T3	A	B
+Choose a source tower 1,2,3: 1
+Choose a destination tower 1,2,3: 3
+	T1
+
+	T2	D
+
+	T3	A	B	C
+Choose a source tower 1,2,3: 2
+Choose a destination tower 1,2,3: 3
+
+Win
+	T1
+
+	T2
+
+	T3	A	B	C	D
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
+
+//Succesful Game Example
+
