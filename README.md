@@ -28,7 +28,7 @@
 <img width="310" alt="Wrong Charecter Added" src="https://user-images.githubusercontent.com/92644639/162797978-213ae011-89a3-454b-b167-83a09796bd8c.png">
  
 +  Garbage Data being entered
-----
+
 ## File Details
 - *main.cpp* - This file contains the source code for the main file
 - *log.txt* - File allows for manual testing to make sure game is running correctly
